@@ -1,2 +1,2 @@
 # demo
-doing git and git hub hands on tutorial learning in india 
+doing git and git hub hands on tutorial learning in india starting from today
